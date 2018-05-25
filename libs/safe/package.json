@@ -1,0 +1,21 @@
+{
+  "name": "safe",
+  "filename": "safe.js",
+  "version": "1.0.0",
+  "description": "一个全新的JS渐进式框架",
+  "homepage": "https://gitee.com/skyogo/Safe",
+  "keywords": ["safe.js", "JavaScript", "渐进式框架"],
+  "maintainers": [
+	{
+	  "name": "skyogo 工作室",
+	  "web": "http://www.skyogo.com",
+	  "mail": "admin@skyogo.com"
+	}
+  ],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://gitee.com/skyogo/Safe"
+	}
+  ]
+}
